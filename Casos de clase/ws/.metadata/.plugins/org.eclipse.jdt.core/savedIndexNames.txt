@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+D:\1. Academia\0. Semestre actual(2025-1)\4. Estructuras noche\Casos de clase\ws\.metadata\.plugins\org.eclipse.jdt.core
+2684872580.index
+485605953.index
+1865797976.index
